@@ -1,0 +1,9 @@
+C:\Users\Darma\Documents\TUGAS S3\PD3\UAS(PD3)\UAS(PD3)\bin\Debug\UAS(PD3).exe
+C:\Users\Darma\Documents\TUGAS S3\PD3\UAS(PD3)\UAS(PD3)\bin\Debug\UAS(PD3).pdb
+C:\Users\Darma\Documents\TUGAS S3\PD3\UAS(PD3)\UAS(PD3)\bin\Debug\UAS(PD3).xml
+C:\Users\Darma\Documents\TUGAS S3\PD3\UAS(PD3)\UAS(PD3)\obj\x86\Debug\UAS_PD3_.Form1.resources
+C:\Users\Darma\Documents\TUGAS S3\PD3\UAS(PD3)\UAS(PD3)\obj\x86\Debug\UAS_PD3_.Resources.resources
+C:\Users\Darma\Documents\TUGAS S3\PD3\UAS(PD3)\UAS(PD3)\obj\x86\Debug\UAS(PD3).vbproj.GenerateResource.Cache
+C:\Users\Darma\Documents\TUGAS S3\PD3\UAS(PD3)\UAS(PD3)\obj\x86\Debug\UAS(PD3).exe
+C:\Users\Darma\Documents\TUGAS S3\PD3\UAS(PD3)\UAS(PD3)\obj\x86\Debug\UAS(PD3).xml
+C:\Users\Darma\Documents\TUGAS S3\PD3\UAS(PD3)\UAS(PD3)\obj\x86\Debug\UAS(PD3).pdb
