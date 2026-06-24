@@ -1,0 +1,32 @@
+body {
+  background: #f4f6f9;
+  font-family: Arial;
+}
+.login-box {
+  border-radius: 20px;
+}
+.dashboard-card {
+  transition: 0.3s;
+  border-radius: 15px;
+}
+.dashboard-card {
+  transform: translateY(-10px);
+}
+.card {
+  border: none;
+}
+table {
+  background: white;
+}
+.navbar-brand {
+  font-weight: bold;
+}
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 28px;
+  }
+  .dashboard-card {
+    margin-bottom: 20px;
+  }
+}
